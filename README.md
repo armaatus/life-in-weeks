@@ -15,11 +15,13 @@ This code was copied and adapted from [Buster Benson](https://busterbenson.com/l
    brew install hugo  # Mac
    ```
 2. Clone and run locally:
+
 ```sh
     git clone https://github.com/ginatrapani/life-in-weeks.git
     cd life-in-weeks
     hugo server -D
 ```
+
 3. Visit [http://localhost:1313/](http://localhost:1313/).
 
 ## ✨ Customize
@@ -44,5 +46,3 @@ There are several neat Life in Weeks examples and tools, including:
 - [Weeksofyour.life](https://www.weeksofyour.life/): Make your own, completely browser-based
 - [Life Calendar](https://lifecalendar.io): Make your own, with multiple layers
 - [My Life in Days](https://days.sonnet.io/): Beautiful refactor, by days
-
-🍯 “I always get to where I am going by walking away from where I have been.” – Winnie the Pooh
