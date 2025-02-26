@@ -23,7 +23,7 @@
     association: "Obs de Flierefluiter"
 
 "2012-09-01":
-  - headline: "📚 High school"
+  - headline: "📗 High school"
     description: "Gymnasium only school, feeling smart I guess?"
     based: "Almere"
     doing: "High school student"
@@ -35,13 +35,17 @@
     doing: "College student"
     association: "UU"
 
+"2018-12-27":
+  - headline: "👾 Bought NES"
+    description: "Always wanted a original Nintendo. Bought it with Super Mario Bros."
+
 "2020-01-02":
-  - headline: "Moved out"
+  - headline: "🛖 Moved out"
     description: "Moved to De Bilt"
     based: "De Bilt"
 
 "2020-09-01":
-  - headline: "Commisioner of educational affairs"
+  - headline: "🏫 Commisioner of educational affairs"
     description: "Started working at study association Sticky as commissioner of educational affairs. My role was to connect students with various educational opportunities inside and outside of the traditional classes."
     based: "Utrecht"
     doing: "Working"
@@ -55,20 +59,20 @@
     association: "UU"
 
 "2021-09-10":
-  - headline: "Faculty Counsil - Faculty of Science"
+  - headline: "🧐 Faculty Counsil - Faculty of Science"
     description: "Started at the faculty council. I represented the students of Information Science and Computer Science. My main task was to provide advice to the board of the science faculty on various topics."
     association: "UU"
 
 "2022-02-15":
-  - headline: "Dimaros"
+  - headline: "🦜 Dimaros"
     description: "Started parttime working at Dimaros"
 
 "2022-04-30":
-  - headline: "Studytrip Copenhagen"
+  - headline: "🇩🇰 Studytrip Copenhagen"
     description: "Went on a studytrip to Denmark with the study association"
 
 "2022-05-08":
-  - headline: "Moved back in"
+  - headline: "🧑‍🧑‍🧒 Moved back in"
     description: "Moved back in with the parent, because the owner of my appartement sold the appartement."
     based: "Almere"
 
@@ -78,12 +82,12 @@
     association: "SNiC"
 
 "2022-06-15":
-  - headline: "Film-Point"
+  - headline: "🎥 Film-Point"
     description: "N and J talked to me about a project and I joined them. This project was Film-Point, an mobile application that aims to help film makers at finding free and good film locations."
 
 "2022-08-16":
-  - headline: "Found a new place"
-    description: "Moved to my new place where I can sublet a room for a year"
+  - headline: "🏠 Found a new place"
+    description: "Moved to my new place where I can sublet a room for a year."
     based: "Utrecht"
 
 "2023-03-31":
@@ -94,7 +98,7 @@
     association: "Dimaros and Film-Point"
 
 "2023-04-15":
-  - headline: "Studytrip Thessaloniki"
+  - headline: "🏛️ Studytrip Thessaloniki"
     description: "Went on a studytrip to Greece with the study association"
 
 "2023-07-19":
@@ -102,12 +106,12 @@
     description: "Going to the arcade"
 
 "2023-08-16":
-  - headline: "Moved back in"
+  - headline: "🧑‍🧑‍🧒 Moved back in"
     description: "Sublet was over, so needed to move back in with the parents."
     based: "Almere"
 
 "2023-09-21":
-  - headline: "Moved back into the city"
+  - headline: "🛖 Moved back into the city"
     description: "Found a new place in Utrecht. My first real student housing"
     based: "Utrecht"
 
@@ -118,7 +122,7 @@
     association: "Dimaros, Film-Point and HV Beertje"
 
 "2023-11-29":
-  - headline: "SNiC 2023 - CreativIT"
+  - headline: "🧑🏼‍🎨 SNiC 2023 - CreativIT"
     description: "CreativIT was officialy organised. A great event for 800 students"
     based: "Utrecht"
 
@@ -129,15 +133,31 @@
     association: "UU"
 
 "2024-04-11":
-  - headline: "New place"
+  - headline: "🏠 New place"
     description: "Building needed to be renovated, so unfortunatly needed to leave the house. Because of this I got priority in the student housing system and found a new place near the city center of Utrecht."
 
 "2024-10-01":
-  - headline: "New place"
+  - headline: "🏡 New place"
     description: "Found my old place not so nice, so while I still had the priority, I found a new place. Even closer to the city center (I can now truly walk to the Domtoren). 25 squaere meter with my own kitchen."
+
+"2024-12-04":
+  - headline: "🧑🏻‍💻 Github profile"
+    description: "Created a custom Github profile readme where metrics of my week are shared. This includes todoist, wakatime and github specific metrics."
+
+"2024-12-24":
+  - headline: "🔨 Modded my 2ds"
+    description: "Found my old 2ds and decided to mod it. Was my first time modding a console."
+
+"2024-12-04":
+  - headline: "👾 Bought GameCube"
+    description: "Played it a lot in my passed, so finally bought my own and modded it."
 
 "2025-02-18":
   - headline: "👨🏽‍💼 Started own business"
     description: "Starting JHC Software Solutions to be able to do software development projects clients"
     based: "Utrecht"
     association: "JHC Software Solutions"
+
+"2025-02-26":
+  - headline: "💰 First invoice send"
+    description: "Making my first 500 euro's"
